@@ -1,0 +1,4 @@
+# config/routes.yaml
+conduction_spaces_default_index:
+    path:       /
+    controller: Conduction\SpacesBundle\Controller\DefaultController::indexAction

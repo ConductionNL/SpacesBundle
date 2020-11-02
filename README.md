@@ -1,2 +1,2 @@
 # SpacesBundle
-Bundle for the Spaces template
+This bundle provides the Spaces theme for symfony
