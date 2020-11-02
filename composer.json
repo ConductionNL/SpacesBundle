@@ -24,7 +24,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Conduction\\RocketBundle\\" : ""
+			"Conduction\\SpacesBundle\\" : ""
 		},
 		"exclude-from-classmap" : [
 			"/Tests/"
