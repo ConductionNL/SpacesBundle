@@ -6,7 +6,7 @@
     <services>
         <defaults autowire="true" autoconfigure="true" />
 
-        <!--Rocket Controllers-->
+        <!--Spaces Controllers-->
         <service id="conduction_spaces.default_controller" class="Conduction\SpacesBundle\Controller\DefaultController" public="true">
         </service>
 

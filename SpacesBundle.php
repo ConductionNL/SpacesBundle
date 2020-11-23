@@ -1,6 +1,6 @@
 <?php
 
-// Conduction/RocketBundle/RocketBundle.php
+// Conduction/SpacesBundle/SpacesBundle.php
 
 /*
  * This file is part of the Conduction Common Ground Bundle

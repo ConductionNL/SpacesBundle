@@ -23,8 +23,8 @@ class DefaultController
     /**
      * This function serves the base (home) path for this template
      *
-     * "/", name="conduction_rocket_default_index"
-     * @Route("/", name="conduction_spaces_default_index", priority=1)
+     * "/", name="conduction_spaces_default_index"
+     * @Route("/", name="conduction_spaces_default_index", priority=2)
      * @Template
      */
     public function indexAction(Session $session, Request $request)
